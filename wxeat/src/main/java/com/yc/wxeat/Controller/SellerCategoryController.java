@@ -1,9 +1,9 @@
 package com.yc.wxeat.Controller;
 
-import com.imooc.dataobject.ProductCategory;
-import com.imooc.exception.SellException;
-import com.imooc.form.CategoryForm;
-import com.imooc.service.CategoryService;
+import com.yc.wxeat.Service.CategoryService;
+import com.yc.wxeat.dataobject.ProductCategory;
+import com.yc.wxeat.exception.SellException;
+import com.yc.wxeat.form.CategoryForm;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

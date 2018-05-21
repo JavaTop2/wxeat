@@ -3,16 +3,16 @@ package com.yc.wxeat.enums;
 import lombok.Getter;
 
 @Getter
-public enum OrderStatusEnum {
+public enum OrderStatusEnum implements CodeEnum{
     NEW(0,"新订单"),
     FINISHED(1,"完结"),
     CANCEL(2,"取消"),
     ;
     private Integer code;
-    private String msg;
+    private String message;
 
-    OrderStatusEnum(Integer code, String msg) {
+    OrderStatusEnum(Integer code, String message) {
         this.code = code;
-        this.msg = msg;
+        this.message = message;
     }
 }

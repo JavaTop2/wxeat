@@ -1,5 +1,7 @@
 package com.yc.wxeat.handler;
 
+import com.yc.wxeat.config.ProjectUrlConfig;
+import com.yc.wxeat.exception.SellerAuthorizeException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;

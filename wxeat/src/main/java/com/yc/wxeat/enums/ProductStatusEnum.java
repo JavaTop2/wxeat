@@ -9,7 +9,7 @@ import javax.persistence.criteria.CriteriaBuilder;
  * @decripe 商品状态枚举
  */
 @Getter
-public enum ProductStatusEnum{
+public enum ProductStatusEnum implements  CodeEnum{
     UP(0,"在售"),
     DOWN(1,"下架")
     ;

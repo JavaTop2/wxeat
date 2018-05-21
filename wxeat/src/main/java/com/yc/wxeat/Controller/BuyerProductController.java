@@ -1,13 +1,13 @@
 package com.yc.wxeat.Controller;
 
-import com.imooc.VO.ProductInfoVO;
-import com.imooc.VO.ProductVO;
-import com.imooc.VO.ResultVO;
-import com.imooc.dataobject.ProductCategory;
-import com.imooc.dataobject.ProductInfo;
-import com.imooc.service.CategoryService;
-import com.imooc.service.ProductService;
-import com.imooc.utils.ResultVOUtil;
+import com.yc.wxeat.Service.CategoryService;
+import com.yc.wxeat.Service.ProductService;
+import com.yc.wxeat.VO.ProductInfoVO;
+import com.yc.wxeat.VO.ProductVO;
+import com.yc.wxeat.VO.ResultVO;
+import com.yc.wxeat.dataobject.ProductCategory;
+import com.yc.wxeat.dataobject.ProductInfo;
+import com.yc.wxeat.utils.ResultVOUtil;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
