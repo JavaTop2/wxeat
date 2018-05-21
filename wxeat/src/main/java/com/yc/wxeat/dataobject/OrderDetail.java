@@ -8,7 +8,6 @@ import java.math.BigDecimal;
 
 /**
  * Created by yc
- * 2017-06-11 17:20
  */
 @Entity
 @Data

@@ -1,10 +1,8 @@
 package com.yc.wxeat.form;
 
 import lombok.Data;
-
 /**
- * Created by 廖师兄
- * 2017-07-23 21:43
+ * Created by yc
  */
 @Data
 public class CategoryForm {

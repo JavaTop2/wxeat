@@ -18,8 +18,8 @@ import java.util.Map;
 
 /**
  * 卖家端订单
- * Created by 廖师兄
- * 2017-07-16 17:24
+ *
+ * Created by yc
  */
 @Controller
 @RequestMapping("/seller/order")

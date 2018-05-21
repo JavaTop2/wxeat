@@ -4,8 +4,7 @@ import lombok.Data;
 import org.hibernate.validator.constraints.NotEmpty;
 
 /**
- * Created by 廖师兄
- * 2017-06-18 23:31
+ * Created by yc
  */
 @Data
 public class OrderForm {

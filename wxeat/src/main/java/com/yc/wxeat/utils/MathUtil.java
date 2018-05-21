@@ -1,8 +1,7 @@
 package com.yc.wxeat.utils;
 
 /**
- * Created by 廖师兄
- * 2017-07-09 16:56
+ * Created by yc
  */
 public class MathUtil {
 

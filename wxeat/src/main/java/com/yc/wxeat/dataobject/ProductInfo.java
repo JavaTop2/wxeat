@@ -13,8 +13,7 @@ import java.util.Date;
 
 /**
  * 商品
- * Created by 廖师兄
- * 2017-05-09 11:30
+ * Created by yc
  */
 @Entity
 @Data

@@ -5,8 +5,7 @@ import lombok.Data;
 import java.math.BigDecimal;
 
 /**
- * Created by 廖师兄
- * 2017-07-23 17:20
+ * Created by yc
  */
 @Data
 public class ProductForm {

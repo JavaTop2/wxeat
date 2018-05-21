@@ -7,8 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 /**
- * Created by 廖师兄
- * 2017-07-29 23:15
+ * Created by yc
  */
 @Service
 public class SellerServiceImpl implements SellerService {

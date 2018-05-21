@@ -1,8 +1,7 @@
 package com.yc.wxeat.exception;
 
 /**
- * Created by 廖师兄
- * 2017-07-30 17:41
+ * Created by yc
  */
 public class SellerAuthorizeException extends RuntimeException {
 }

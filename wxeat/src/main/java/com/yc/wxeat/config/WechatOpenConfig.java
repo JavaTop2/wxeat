@@ -9,8 +9,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
 
 /**
- * Created by 廖师兄
- * 2017-07-30 11:05
+ * Created by yc
  */
 @Component
 public class WechatOpenConfig {

@@ -2,8 +2,7 @@ package com.yc.wxeat.constant;
 
 /**
  * redis常量
- * Created by 廖师兄
- * 2017-07-30 16:22
+ * Created by yc
  */
 public interface RedisConstant {
 

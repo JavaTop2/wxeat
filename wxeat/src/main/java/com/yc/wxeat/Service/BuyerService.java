@@ -3,9 +3,7 @@ package com.yc.wxeat.Service;
 import com.yc.wxeat.dto.OrderDTO;
 
 /**
- * 买家
- * Created by 廖师兄
- * 2017-06-22 00:11
+ * Created by yc
  */
 public interface BuyerService {
 
